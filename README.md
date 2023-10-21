@@ -1,5 +1,5 @@
 # Portfolio projects
-## Hubert Antoniewicz
+### Author: Hubert Antoniewicz
 ### This github repository shows sample of projects I've worked on including:
 
 ## SQL
