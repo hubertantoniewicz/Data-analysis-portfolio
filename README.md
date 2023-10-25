@@ -4,3 +4,6 @@
 
 ## SQL
 + Data science salaries analysis
+
+## MS Excel
++ Interactive dashboard presenting electronics sales analysis
