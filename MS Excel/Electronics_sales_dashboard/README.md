@@ -14,4 +14,7 @@
 There is timeline which allows stakeholder to choose timeframe.
 Moreover, slicers allow users to choose country, product category or sold device type.
 
-![Preview of dashboard:](/electronics_sales_dashboard "some discription")
+### Dashboard preview:
+
+![electronics_sales_dashboard](https://github.com/hubertantoniewicz/Data-analysis-portfolio/assets/79698411/99b40297-6f51-4cae-bc6e-75e8d3452785)
+
