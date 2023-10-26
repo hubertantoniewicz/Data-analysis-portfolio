@@ -12,7 +12,8 @@
 
 **![Sales](https://github.com/hubertantoniewicz/Data-analysis-portfolio/assets/79698411/ade97e0b-7aef-42c6-853e-ca2f7235565c)**
 
-**![Map](https://github.com/hubertantoniewicz/Data-analysis-portfolio/assets/79698411/8c2375bb-48c4-4a29-b2ac-1dee28831322)**
+**![Map](https://github.com/hubertantoniewicz/Data-analysis-portfolio/assets/79698411/7498fdcd-5f96-4eee-b1f0-32234601f7cb)**
+
 
 
 
